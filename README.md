@@ -2,7 +2,7 @@
 
 - Ola. Me chamo Igor e sou Quality Analyst
 ##### Conhecimentos Basicos:
-- 🌱 JavaScript | HTML | CSS | React | C | Python | Git | GitHub | PostgreSql | Mysql | Delphi | TesteComplete
+- 🌱 JavaScript | HTML | CSS | React | Python | Git | GitHub | PostgreSql | Mysql | Delphi | TesteComplete
 - 🖥 Estou cursando Analise em desenvolvimento de sistemas
 - 📩 Contatos: email igorrsilvaa920@gmail.com
 - ☎️ telefone (48) 99178 - 1573
