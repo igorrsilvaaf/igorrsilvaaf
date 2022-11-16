@@ -1,6 +1,6 @@
-### ❓Quem sou 
+### Quem sou ❓
 
-- Ola. Me chamo Igor e sou Quality Analyst
+- Ola. Me chamo Igor e sou Analista de Teste.
 ##### Conhecimentos Basicos:
 - 🌱 JavaScript | HTML | CSS | React | Python | Git | GitHub | PostgreSql | Mysql | Delphi | TesteComplete
 - 🖥 Estou cursando Analise em desenvolvimento de sistemas
