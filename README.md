@@ -2,7 +2,7 @@
 
 - Ola. Me chamo Igor e sou Analista de Teste.
 ##### Conhecimentos Basicos:
-- 🖥 JavaScript | Java EE | Spring | Hibernate | HTML | CSS | Python | Git | GitHub | Banco de dados relacionais | Delphi | TesteComplete
+- 🖥 JavaScript | Java EE | Python | Git | Banco de dados relacionais | Delphi | TesteComplete
 - 🖥 Estou cursando Analise em desenvolvimento de sistemas
 - 📩 Contatos: email igorrsilvaa920@gmail.com
 - ☎️ telefone (48) 99178 - 1573
