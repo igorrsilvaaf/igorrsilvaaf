@@ -1,37 +1,55 @@
-### Quem sou ❓
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/igorrsilvaaf/d58fe0d0b8876811d3226acc1725f51b/raw/6723b09a2d23304f712e9b593ef1ae303c03a300/Githubcard.svg"/>
+<h1 align="left">Hi dear :wave:, I'm Igor Silva</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorrsilvaaf&color=yellow" alt="Profile views" /> </p>
 
-- Ola. Me chamo Igor e sou Analista de Teste.
-##### Conhecimentos Basicos:
-- 🖥 JavaScript | Java EE | Python | Git | Banco de dados relacionais | Delphi | TesteComplete
-- 🖥 Estou cursando Analise em desenvolvimento de sistemas
-- 📩 Contatos: email igorrsilvaa920@gmail.com
-- ☎️ telefone (48) 99178 - 1573
+- 🔥 Quality analyst and student of Analysis and Systems Development. 
+
+- 🔭 I’m currently working at Logtec sistemas
+
+- :computer: you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
+
+- :grey_question: I have knowledge in: Java EE, JavaScript, HTML, CSS, SCSS, GO, SQL
+
+- :hourglass: I am transitioning my career into the field of Full-stack development. 
 
 
 
-<div align="center">
-  <a href="https://igorcode2021.netlify.app/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorrsilvaaf&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrsilvaaf&layout=compact&langs_count=7&theme=omni"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Igor-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" alt="Igor-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Igor-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Igor-Delphi" height="30" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5ggvzJ44vFsPOR7ENvDjp9Uh8ChZWEsOZ2tC5es0bHmfS6Ze2lAkENfpQl2BL5pPgI0&usqp=CAU">
-  <img align="center" alt="Igor-TestComplete" height="30" width="35"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTikAiSm237IMZ_F1ZwBcHRZsZdeuyQY1OFAnmT2vvpVduWDsAS6Cs4u85_eQoI2TQLr4&usqp=CAU">
-</div>
-  <br>
-  
-   
-  
-  <a href="https://www.instagram.com/igor.codes/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/igor-silva-08b3291a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igorrsilvaa920@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaEE](https://img.shields.io/badge/-Java-05122A?style=flat&logo=coffeescript)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![GO](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="580em" src="https://github-readme-stats.vercel.app/api?username=igorrsilvaaf&show_icons=true&theme=codeSTACKr" alt="igorrsilvaaf's stats"/>
+<img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrsilvaaf&layout=compact&theme=codeSTACKr" alt="igor's most languages"/>
+</p>
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://portfolioigor.netlify.app/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Personal Website-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://www.linkedin.com/in/igor-silva-08b3291a7/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-igor silva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/igor.codes/?theme=dark" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-igor.codes-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
