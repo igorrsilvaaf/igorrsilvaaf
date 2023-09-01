@@ -46,7 +46,7 @@
 <a href="https://portfolioigor.netlify.app/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Personal Website-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://www.linkedin.com/in/igor-silva-08b3291a7/" target="_blank">
+<a href="https://www.linkedin.com/in/igor-da-silva-b248bb289/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-igor silva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/igor.codes/?theme=dark" target="_blank">
