@@ -4,11 +4,11 @@
 
 - 🔥 Quality analyst and student of Analysis and Systems Development. 
 
-- 🔭 I’m currently working at Logtec sistemas
+- 🔭 I’m currently working at Logtec sistemas.
 
 - :computer: you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
 
-- :grey_question: I have knowledge in: Python, Git, Github, PostgreSql, MySql, Exel, Power BI, Projetos ágeis 
+- :grey_question: I have knowledge in: Python, Git, Github, PostgreSql, MySql, Exel, Power BI, Agile projects. 
 
 - :hourglass: I'm in career transition to Project Owner. 
 
