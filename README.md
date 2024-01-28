@@ -8,9 +8,9 @@
 
 - :computer: you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
 
-- :grey_question: I have knowledge in: Java EE, JavaScript, HTML, CSS, SCSS, GO, SQL
+- :grey_question: I have knowledge in: Python, Git, Github, Postgres, MySql, Exel, Power BI, Projetos ágeis 
 
-- :hourglass: I am transitioning my career into the field of Full-stack development. 
+- :hourglass: I'm in career transition to Project Owner. 
 
 
 
@@ -19,15 +19,13 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=Delphi)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
+![Exel](https://img.shields.io/badge/-Exel-05122A?style=flat&logo=microsoftexcel)&nbsp;
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
