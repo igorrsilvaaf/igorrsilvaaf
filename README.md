@@ -8,7 +8,7 @@
 
 - :computer: you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
 
-- :grey_question: I have knowledge in: Python, Git, Github, Postgres, MySql, Exel, Power BI, Projetos ágeis 
+- :grey_question: I have knowledge in: Python, Git, Github, PostgreSql, MySql, Exel, Power BI, Projetos ágeis 
 
 - :hourglass: I'm in career transition to Project Owner. 
 
