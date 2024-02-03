@@ -2,15 +2,15 @@
 <h1 align="left">Hi dear :wave:, I'm Igor Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorrsilvaaf&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Quality analyst and student of Analysis and Systems Development. 
+- 🔥 Quality analyst
 
-- 🔭 I’m currently working at Logtec sistemas.
+- 🎓 Analysis and Systems Development.
+
+- 🎓 MBA in Software Quality Management
 
 - :computer: you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
 
-- :grey_question: I have knowledge in: Python, Git, Github, PostgreSql, MySql, Exel, Power BI, Agile projects. 
-
-- :hourglass: I'm in career transition to Project Owner. 
+- :grey_question: I have knowledge in: Python, Git, Github, PostgreSql, MySql, Jira, Cypress, Selenium. 
 
 
 
@@ -24,8 +24,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
-![Exel](https://img.shields.io/badge/-Exel-05122A?style=flat&logo=microsoftexcel)&nbsp;
-![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
