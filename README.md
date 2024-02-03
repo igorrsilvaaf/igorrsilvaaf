@@ -10,7 +10,7 @@
 
 - :computer: you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
 
-- :grey_question: I have knowledge in: Python, Git, Github, PostgreSql, MySql, Jira, Cypress, Selenium. 
+- :grey_question: I have knowledge in: Python, Git, Github, PostgreSql, MySql, Jira, Cypress, Selenium, API REST. 
 
 
 
@@ -27,6 +27,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
+![API REST](https://img.shields.io/badge/-APIREST-05122A?style=flat&logo=amazondocumentdb)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
