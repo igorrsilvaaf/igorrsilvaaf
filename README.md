@@ -10,8 +10,7 @@
 
 - 🌍 you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
 
-- 🧑‍💻 I have knowledge in: Git, Github, PostgreSql, MySql, Jira, Confluence, Clickup, Postman, Cypress, Selenium, k6, Jmeter e API REST. 
-
+- 🧑‍💻 I have knowledge in: Git, Github, GitLab PostgreSql, MySql, Jira, Confluence, Clickup, Postman, Cypress, Selenium, k6, Jmeter e API REST. 
 
 
 
@@ -21,6 +20,7 @@
  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
