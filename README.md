@@ -28,10 +28,10 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Jmeter](https://img.shields.io/badge/-apachejmeter-05122A?style=flat&logo=apachejmeter)&nbsp;
 ![k6](https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6)&nbsp;
-<!-- ![Playwright](https://img.shields.io/badge/-playwright-05122A?style=flat&logo=playwright)&nbsp; -->
 ![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
-<!-- ![Insomnia](https://img.shields.io/badge/-insomnia-05122A?style=flat&logo=insomnia)&nbsp; -->
 ![API REST](https://img.shields.io/badge/-APIREST-05122A?style=flat&logo=amazondocumentdb)&nbsp;
+<!-- ![Playwright](https://img.shields.io/badge/-playwright-05122A?style=flat&logo=playwright)&nbsp; -->
+<!-- ![Insomnia](https://img.shields.io/badge/-insomnia-05122A?style=flat&logo=insomnia)&nbsp; -->
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
