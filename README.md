@@ -2,7 +2,7 @@
 <h1 align="left">Hi dear :wave:, I'm Igor Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorrsilvaaf&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Quality analyst
+- 🔥 Quality Engineer Grupo Casas Bahia
 
 - 🎓 Analysis and Systems Development.
 
