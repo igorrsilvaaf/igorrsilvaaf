@@ -2,11 +2,11 @@
 <h1 align="left">Hi dear :wave:, I'm Igor Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorrsilvaaf&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Quality Engineer Grupo Casas Bahia
+- 🔥 Quality Engineer.
 
 - 🎓 Analysis and Systems Development.
 
-- 🎓 MBA in Software Quality Management
+- 🎓 MBA in Software Quality Management.
 
 - 🌍 you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
 
