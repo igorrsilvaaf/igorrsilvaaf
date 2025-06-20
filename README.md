@@ -10,7 +10,7 @@
 
 - 🌍 Mais sobre quem sou: [Personal Website](https://portfolioigor.netlify.app/)
 
-- 🧑‍💻 Possuo sólido conhecimento em: git, Sql, jira, Cypress E2E/API, Appium, k6 e jmeter. 
+- 🧑‍💻 Possuo sólido conhecimento: Cypress E2E/API, Playwright, Appium, k6 e jmeter. 
 
 
 
