@@ -2,15 +2,15 @@
 <h1 align="left">Hi dear :wave:, I'm Igor Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorrsilvaaf&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Quality Assurance.
+- 🔥 Engenheiro de Qualidade.
 
-- 🎓 Analysis and Systems Development.
+- 🎓 Graduado em Analise e Desenvolvimento de Sistemas.
 
-- 🎓 MBA in Software Quality Management.
+- 🎓 Pós-Graduado em Engenharia da Computação.
 
-- 🌍 you can learn more about me at: [Personal Website](https://portfolioigor.netlify.app/)
+- 🌍 Mais sobre quem sou: [Personal Website](https://portfolioigor.netlify.app/)
 
-- 🧑‍💻 I have knowledge in: Git, Github, GitLab PostgreSql, MySql, Jira, Confluence, Clickup, Postman, Cypress, Selenium, k6, Jmeter e API REST. 
+- 🧑‍💻 Possuo sólido conhecimento em: git, Sql, jira, Cypress E2E/API, Appium, k6 e jmeter. 
 
 
 
