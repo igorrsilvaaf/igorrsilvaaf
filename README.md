@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=833AB4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+E2E+%7C+API+%7C+Testes+de+Performance+%F0%9F%94%A5;%F0%9F%9B%A1%EF%B8%8F+Testes+de+Seguran%C3%A7a+%26+OWASP+%F0%9F%9B%A1%EF%B8%8F;%F0%9F%A4%96+Cypress+%7C+Playwright+%7C+k6+%7C+Appium+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://portfolioigor.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-da-silva-francisco-b248bb289/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor.codes/)
@@ -15,7 +13,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Sobre Mim
 
@@ -34,7 +32,8 @@ const igor = {
     "Testes de API", 
     "Testes de Performance",
     "Testes Mobile",
-    "Testes de Segurança"
+    "Testes de Segurança",
+    "Testes Manuais"
   ],
   focoAtual: "OWASP & Penetration Testing",
   lema: "Qualidade não é um ato, é um hábito"
@@ -55,7 +54,7 @@ const igor = {
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3p9vb82telecc&rid=giphy.gif" width="30"> Stack Tecnológica
 
@@ -125,32 +124,42 @@ const igor = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorrsilvaaf&show_icons=true&count_private=true&hide_border=true&title_color=833ab4&icon_color=fcb045&text_color=c9d1d9&bg_color=0d1117&ring_color=833ab4&include_all_commits=true&locale=pt-br"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrsilvaaf&layout=compact&hide_border=true&title_color=833ab4&text_color=c9d1d9&bg_color=0d1117&langs_count=8&locale=pt-br"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=igorrsilvaaf&theme=midnight-purple&hide_border=true&background=0D1117&stroke=833ab4&ring=833ab4&fire=fcb045&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=833ab4&sideLabels=833ab4&dates=c9d1d9&locale=pt_BR"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igorrsilvaaf&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+  <a href="https://github.com/igorrsilvaaf">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=igorrsilvaaf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igorrsilvaaf&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorrsilvaaf&custom_title=Gráfico%20de%20Contribuições%20do%20Igor&bg_color=0d1117&color=833ab4&line=fcb045&point=fd1d1d&area_color=833ab4&area=true&hide_border=true"/>
+  <a href="https://github.com/igorrsilvaaf">
+    <img src="https://streak-stats.demolab.com?user=igorrsilvaaf&theme=midnight-purple&hide_border=true&background=0D1117&ring=833ab4&fire=fcb045&currStreakLabel=833ab4"/>
+  </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<div align="center">
+  <a href="https://github.com/igorrsilvaaf">
+    <img src="https://github-profile-trophy.vercel.app/?username=igorrsilvaaf&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/igorrsilvaaf">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorrsilvaaf&custom_title=Gráfico%20de%20Contribuições&bg_color=0d1117&color=833ab4&line=fcb045&point=fd1d1d&area_color=833ab4&area=true&hide_border=true"/>
+  </a>
+</div>
+
+---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Vamos Conectar!
 
