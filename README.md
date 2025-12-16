@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=833AB4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+E2E+%7C+API+%7C+Testes+de+Performance+%F0%9F%94%A5;%F0%9F%9B%A1%EF%B8%8F+Testes+de+Seguran%C3%A7a+%26+OWASP+%F0%9F%9B%A1%EF%B8%8F;%F0%9F%A4%96+Cypress+%7C+Playwright+%7C+k6+%7C+Appium+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=833AB4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+E2E+%7C+API+%7C+Testes+de+Performance+%F0%9F%94%A5;%F0%9F%A4%96+Cypress+%7C+Playwright+%7C+k6+%7C+Appium+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://portfolioigor.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-da-silva-francisco-b248bb289/)
